@@ -2,7 +2,7 @@
 
 ![CodePup AI Screenshot](./screenshots/hero-section.png)
 
-CodePup AI is a modern AI-powered website builder that allows users to create stunning, responsive websites with zero coding. This project demonstrates an interactive frontend using **React**, **TypeScript**, **TailwindCSS**, and **Framer Motion**.
+CodePup AI is a modern AI-powered website builder that allows users to create stunning, responsive websites with zero coding. This project demonstrates an interactive frontend using **React**, **TypeScript**, **TailwindCSS**, and **Framer Motion**. 
 
 ---
 
